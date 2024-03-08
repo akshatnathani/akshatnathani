@@ -27,4 +27,5 @@ Fluent in English, Hindi, and JavaScript. Proficient in turning coffee into code
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/akshat-nathani"><img src="https://github-readme-stats.vercel.app/api?username=akshat-nathani&show_icons=true&hide=stars,&count_private=true&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=181824&hide_border=true&show_icons=true" alt="akshat-nathani's GitHub stats" /></a><a href="http://www.github.com/akshat-nathani"><img src="https://github-readme-streak-stats.herokuapp.com/?user=akshat-nathani&stroke=ffffff&background=181824&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/akshat-nathani"><img src="https://github-readme-stats.vercel.app/api?username=akshat-nathani&show_icons=true&hide=stars,&count_private=true&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=181824&hide_border=true&show_icons=true" alt="akshat-nathani's GitHub stats" /></a>
+<a href="http://www.github.com/akshat-nathani"><img src="https://github-readme-streak-stats.herokuapp.com/?user=akshat-nathani&stroke=ffffff&background=181824&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
