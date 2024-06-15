@@ -5,7 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshat-nathani" alt="akshat-nathani" /></a> </p>
 
-- 🔭 I’m currently working on [Tuneradar](https://github.com/akshat-nathani/MusicRecognizationSystem.git)
+<p align="left"> <a href="https://twitter.com/woaboagoa" target="blank"><img src="https://img.shields.io/twitter/follow/woaboagoa?logo=twitter&style=for-the-badge" alt="woaboagoa" /></a> </p>
+
+- 🔭 I’m currently working on [Tuneradar](https://github.com/akshat-nathani/Tuneradar.git)
 
 - 🌱 I’m currently learning **Supervised Learning and 3D Modeling**
 
