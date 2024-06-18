@@ -12,10 +12,6 @@ Fluent in English, Hindi, and JavaScript. Proficient in turning coffee into code
 * 🧠  I'm learning Supervised learning and 3D Modeling.
 * 🤝  I'm open to collaborating on Machine Learning Projects.
 * ⚡  I pour all my socialization skills into the projects I work on.
-
-<a href="https://www.github.com/kyzolia" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/kyzolia?logo=github&style=for-the-badge&color=facc15&labelColor=181824" /></a>
-
 ### Skills
 
 
