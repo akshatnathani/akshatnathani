@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Supervised Learning and 3D Modeling**
 
-- 📝 I regularly write articles on [https://akshatnathani.hashnode.dev/](https://akshatnathani.hashnode.dev/)
+- 📝 I regularly write articles on [Cipher](https://akshatnathani.hashnode.dev/)
 
 - 💬 Ask me about **react, nodejs**
 
