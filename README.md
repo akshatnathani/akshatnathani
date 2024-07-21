@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Linky](https://github.com/akshat-nathani/Linky.git)
 
-- 🌱 I’m currently learning **Supervised Learning and 3D Modeling**
+- 🌱 I’m currently learning **Machine Learning and 3D Modeling**
 
 - 📝 I regularly write articles on [Cipher](https://akshatnathani.hashnode.dev/)
 
