@@ -1,4 +1,4 @@
-<div align="center"><img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="400px" alt="Anime programming scene"> </div> <h1 align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=58A6FF&background=FF6F6F00&center=true&vCenter=true&width=1000&lines=Konnichiwa!+I'm+Akshat+Nathani;Full-stack+Developer+by+Day;Video+Editor+by+Night;Turning+Caffeine+into+Code!" alt="Typing SVG" /> </a> </h1> <p align="center"> <em>⚔️ Coding with the precision of a samurai and the energy of a supernova! 🌟</em> </p> 
+<div align="center"><img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" height="300px" width="400px" alt="Anime programming scene"> </div> <h1 align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=58A6FF&background=FF6F6F00&center=true&vCenter=true&width=1000&lines=Konnichiwa!+I'm+Akshat+Nathani;Full-stack+Developer+by+Day;Video+Editor+by+Night;Turning+Caffeine+into+Code!" alt="Typing SVG" /> </a> </h1> <p align="center"> <em>⚔️ Coding with the precision of a samurai and the energy of a supernova! 🌟</em> </p> 
 
 
 
@@ -62,12 +62,13 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akshat-nathani&theme=tokyonight&no-frame=true&margin-w=15&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=akshat-nathani&theme=tokyonight&no-frame=true&margin-w=15&column=7&size=0.5" alt="GitHub Trophies" />
 </div>
 
 ---
-
-### 📈 Contribution Graph
+<div align="center">
+<h3>📈 Contribution Graph</h3>
+</div>
 
 [![Akshat's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=akshat-nathani&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ---
