@@ -6,7 +6,7 @@
 
 | 🔭 Current Quest | 🌱 Leveling Up | 💬 Summoning Jutsu | 📫 Telepathy |
 |:----------------:|:--------------:|:------------------:|:------------:|
-| [Linky](https://github.com/akshat-nathani/Linky.git) | Machine Learning & 3D Modeling | React & Node.js | akshatiscoding@gmail.com |
+| [Linky](https://github.com/thakksht/Linky.git) | Machine Learning & 3D Modeling | React & Node.js | akshatiscoding@gmail.com |
 
 > ⚡ Special Ability: I channel all my social energy into code!
 
@@ -51,8 +51,8 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshat-nathani&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshat-nathani&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thakksht&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thakksht&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ---
@@ -70,7 +70,7 @@
 <h3>📈 Contribution Graph</h3>
 </div>
 
-[![Akshat's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=akshat-nathani&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Akshat's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=thakksht&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ---
 <div align="center">
   <h3>🤝 Join My Quest</h3>
