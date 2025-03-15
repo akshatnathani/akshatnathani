@@ -1,30 +1,111 @@
-<h1 align="center">Hi 👋, I'm Akshat</h1>
+<div align="center">
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=header&text=AKSHAT%20NATHANI&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=25" width="100%" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thakksht&theme=onedark&label=Profile%20views&color=0e75b6&style=flat" alt="thakksht" /> </p>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjg2MHJkMG1tcDM4dHJ6dmtrcmU3c3FmZDZ2ajVnY3Vyem41MWxucCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5SCTTJqdzZQI8xRFcQ/giphy.gif" width="280px" />
+  
+  <br>
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=435&lines=Software+Engineer;Problem+Solver;Tech+Enthusiast" />
+  
+  <br>
+  
+  <div>
+    <a href="mailto:thakksht@gmail.com">
+      <img src="https://img.shields.io/badge/thakksht@gmail.com-8B5CF6?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=thakksht&style=flat-square&color=8B5CF6" alt="Profile Views" />
+  </div>
+  
+  <br>
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thakksht&theme=onedark" alt="thakksht" /></a> </p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thakksht&show_icons=true&hide_border=true&theme=tokyonight&hide_title=true&icon_color=8B5CF6&ring_color=8B5CF6&text_color=c9d1d9&bg_color=0d1117" width="58%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thakksht&layout=compact&hide_border=true&theme=tokyonight&hide_title=true&text_color=c9d1d9&bg_color=0d1117" width="38%" />
+</div>
 
-- 🔭 I’m currently working on [EventHub](https://github.com/priyanshigoyal2801/EventHub)
-- 🤝 I’m looking for help with [Forfiet based game app](https://github.com/thakksht/forfeit)
-- 📫 How to reach me **thakksht@gmail.com**
+<br>
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<div align="center">
+  <img src="https://i.imgur.com/waxVImv.png" alt="divider" width="100%" />
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/thakksht" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thakksht" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/akshatnathani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshatnathani" height="30" width="40" /></a>
-<a href="https://instagram.com/akkshth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akkshth" height="30" width="40" /></a>
-<a href="https://hashnode.com/akkshth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="akkshth" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/thakksht" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="thakksht" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/thakksht" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="thakksht" height="30" width="40" /></a>
-<a href="/https://akshatnathani.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://akshatnathani.hashnode.dev/" height="30" width="40" /></a>
-</p>
+<h2 align="center">⚡ About Me</h2>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+<div >
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thakksht&theme=onedark" alt="thakksht" /></p>
+```javascript
+const akshat = {
+  building: ["EventHub", "Forfeit"],
+  loves: ["Web Development", "Anime", "Problem Solving", "ML/AI"],
+  tech: {
+    frontend: ["React", "Next.js", "Tailwind CSS", "TypeScript"],
+    backend: ["Node.js", "Express", "Python", "Flask", "Go"],
+    databases: ["MongoDB", "MySQL"],
+    devops: ["AWS", "Docker", "GitHub Actions"]
+  }
+};
+```
 
+</div>
+
+<div align="center">
+  <img src="https://i.imgur.com/waxVImv.png" alt="divider" width="100%" />
+</div>
+
+<br>
+
+<details open>
+  <summary><h2 align="center">🛠️ Tech Stack</h2></summary>
+  <br>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=js,ts,py,cpp,go,react,nextjs,mongodb,aws,docker,tailwind,nodejs,express,flask,tensorflow,figma&perline=8" />
+  </p>
+</details>
+
+<br>
+
+<details open>
+  <summary><h2 align="center">🚀 Current Projects</h2></summary>
+  <br>
+  <p align="center">
+    <a href="https://thapar-events-portal.pages.dev/">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=priyanshigoyal2801&repo=EventHub&theme=tokyonight&hide_border=true&icon_color=8B5CF6" width="48%" alt="EventHub" />
+    </a>
+    <a href="https://github.com/thakksht/basic-drive">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=thakksht&repo=basic-drive&theme=tokyonight&hide_border=true&icon_color=8B5CF6" width="48%" alt="Forfeit" />
+    </a>
+  </p>
+</details>
+
+<div align="center">
+  <img src="https://i.imgur.com/waxVImv.png" alt="divider" width="100%" />
+</div>
+
+<br>
+
+<h2 align="center">🌐 Connect With Me</h2>
+
+<div align="center">
+  <a href="https://twitter.com/thakksht">
+    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/akshatnathani">
+    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/akkshth">
+    <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.codechef.com/users/thakksht">
+    <img src="https://img.shields.io/badge/CodeChef-black?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/7hJZcKzjIufeOmqKSj/giphy.gif?cid=790b7611r3him9yvop3hmgrwmxzxdp1yjfhg8h7700qh6csj&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300" />
+  <br>
+  <br>
+</div>
