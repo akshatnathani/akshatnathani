@@ -7,7 +7,7 @@
 </p>
 <ul>
   <li>I'm <a href="https://akshatnathani.tech/"> Akshat Nathani</a>, having experience working in various domains like web dev, machine learning, backend and data engineering.</li>
-  <li>Currently building <b>EventHub</b> and <b>Forfeit</b> - exciting projects combining my passion for technology and problem-solving.</li>
+  <li>Currently building <b><a href = "https://thapar-events-portal.pages.dev/" >EventHub</a></b> and <b>Forfeit</b> - exciting projects combining my passion for technology and problem-solving.</li>
   <li>Follow me on <a href="https://www.linkedin.com/in/akshatnathani/">LinkedIn</a> and <a href="https://twitter.com/thakksht">X</a> to stay updated.</li>
 </ul>
 <h3 align="center">⚡ About Me</h3>
