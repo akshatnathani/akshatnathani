@@ -41,10 +41,3 @@
 - **LinkedIn**: akshatnathani
 - **Discord**: Akshat#0639
 
----
-```bash
-➜ ~ echo "Trophies"
-```
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akshatnathani&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
